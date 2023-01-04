@@ -1,2 +1,2 @@
-# ingestion-sdk
+# ingestion-sdks
 SDK libraries for data ingestion
